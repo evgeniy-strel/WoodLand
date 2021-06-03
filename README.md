@@ -1,4 +1,4 @@
 # WoodLand - компьютерная игра жанра RPG-Survival, в которой человек в игровой форме сможет обучиться навыкам выживания в лесу.
 
 Структура игры:
-![](https://i.ibb.co/rmqZntb/readme.jpg)
+![](https://i.ibb.co/n38zwcG/readme.jpg)
